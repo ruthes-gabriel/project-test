@@ -1,7 +1,5 @@
 function Home() {
-    return <h1>                        Brasil vai perder nessa quarta
-                                             chora maisssssssss
-    </h1>
+    return <h1>Ultimo treino de git</h1>
 }
 
 export default Home;
